@@ -10,6 +10,8 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
+import android.view.View.OnClickListener
 import com.example.auto_tracker_part_1.databinding.ActivityMainBinding
 import com.example.auto_tracker_part_1.view.FirstActivity
 
